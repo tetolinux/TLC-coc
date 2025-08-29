@@ -56,7 +56,6 @@ Don’t post misleading info, unverified downloads, or unsafe commands.
 
 ---
 
-## Server Rules
 **16. Use the correct channels.**  
 Help keep the server clean and organized.  
 
