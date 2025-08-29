@@ -1,78 +1,81 @@
-# Teto Linux Community – Rules & Guidelines  
+# Teto Linux Community – Rules & Guidelines
 
-Welcome to the Teto Linux Community!  
-This space is for learning, sharing, and enjoying Linux and open-source software together.  
-To keep things safe, useful, and enjoyable for everyone, please follow these rules:  
+Welcome to the Teto Linux Community!
+
+This space is a place for learning, sharing, and having fun with Linux and open-source software.
+
+To make it a safe, useful, and enjoyable place for everyone, please follow these rules:
 
 ---
 
 ## Community Conduct
-**1. Respect everyone.**  
-No harassment, slurs, bullying, or personal attacks.  
 
-**2. Keep discussions civil.**  
-Challenge ideas, not people. Heated debates are fine — disrespect is not.  
+**1. Respect everyone.**
+No harassment, slurs, bullying, or personal attacks.
 
-**3. No cross-server drama.**  
+**2. Keep discussions civil.**
+Challenge ideas, not people. Heated debates are fine, but disrespect is not.
 
-**4. Be inclusive.**  
-Everyone is welcome regardless of experience level, background, or opinion.  
+**3. No cross-server drama.**
 
-**5. Respect privacy.**  
-Don’t share personal details (yours or others) without consent.  
+**4. Be inclusive.**
+Everyone is welcome, regardless of their experience level, background, or opinion.
 
-**6. No impersonation.**  
-Don’t pose as staff, bots, or other members.  
+**5. Respect privacy.**
+Do not share personal details (yours or others') without consent.
 
-**7. Encourage learning.**  
-Support beginners instead of putting them down.  
+**6. No impersonation.**
+Do not pretend to be staff, bots, or other members.
 
----
-
-
-**8. Keep it on-topic.**  
-Linux, or any tech related conversations belong in their proper channels.  
-
-**9. Use off-topic channels.**  
-Casual chat, memes, or non-tech talk go there — not in support/linux areas.  
-
-**10. No spam.**  
-Don’t flood messages, walls of emojis, or low-effort posts.  
-
-**11. No advertising.**  
-Unsolicited promotions, invites, or links aren’t allowed.  
-
-**12. Keep content safe.**  
-No NSFW, extreme violence, shock, or disturbing material.  
-
-**13. No piracy.**  
-Don’t share or request cracked software, illegal files, or instructions for them.  
-
-**14. No malicious material.**  
-No malware, exploits, backdoors, or anything harmful.  
-
-**15. Share responsibly.**  
-Don’t post misleading info, unverified downloads, or unsafe commands.  
+**7. Encourage learning.**
+Support beginners instead of making them feel inferior.
 
 ---
 
-**16. Use the correct channels.**  
-Help keep the server clean and organized.  
+**8. Keep it on-topic.**
+Linux or any tech-related conversations should be in their designated channels.
 
-**17. Don’t mini-mod.**  
-Report issues instead of trying to act as staff.  
+**9. Use off-topic channels.**
+Casual chat, memes, or non-tech topics should be in these channels, not in the support or Linux areas.
 
-**18. English is the default.**  
-Unless otherwise stated, keep conversations in English.  
+**10. No spam.**
+Do not flood the server with messages, walls of emojis, or low-effort posts.
 
-**19. Respect staff decisions.**  
-Moderators have the final say — appeals can be made respectfully.  
+**11. No advertising.**
+Unsolicited promotions, invites, or links are not allowed.
 
-**20. Follow Discord’s ToS.**  
-Our rules add to Discord’s official guidelines, not replace them.  
+**12. Keep content safe.**
+No NSFW, extreme violence, shock, or disturbing material.
+
+**13. No piracy.**
+Do not share or request cracked software, illegal files, or instructions for them.
+
+**14. No malicious material.**
+No malware, exploits, backdoors, or anything harmful.
+
+**15. Share responsibly.**
+Do not post misleading information, unverified downloads, or unsafe commands.
 
 ---
 
-## Final Note  
-This server is about collaboration, curiosity, and respect.  
-If you’re constructive, friendly, and helpful, you’ll fit right in.
+**16. Use the correct channels.**
+Help keep the server clean and organized.
+
+**17. Don't mini-mod.**
+Report issues instead of trying to act as staff.
+
+**18. English is the default.**
+Unless otherwise stated, keep conversations in English.
+
+**19. Respect staff decisions.**
+Moderators have the final say, but appeals can be made respectfully.
+
+**20. Follow Discord's ToS.**
+Our rules should complement Discord's official guidelines, not replace them.
+
+---
+
+## Final Note
+
+This server is about collaboration, curiosity, and respect.
+If you are constructive, friendly, and helpful, you will fit right in.
